@@ -12,6 +12,7 @@
 		BF68A1A120630809005FA649 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF68A19F20630809005FA649 /* Main.storyboard */; };
 		BF68A1A320630809005FA649 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF68A1A220630809005FA649 /* Assets.xcassets */; };
 		BF68A1A620630809005FA649 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF68A1A420630809005FA649 /* LaunchScreen.storyboard */; };
+		BF68A1AE20636D78005FA649 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF68A1AD20636D78005FA649 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BF68A1A220630809005FA649 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF68A1A520630809005FA649 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF68A1A720630809005FA649 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF68A1AD20636D78005FA649 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BF68A19F20630809005FA649 /* Main.storyboard */,
 				BF68A1A220630809005FA649 /* Assets.xcassets */,
 				BF68A1A420630809005FA649 /* LaunchScreen.storyboard */,
+				BF68A1AD20636D78005FA649 /* start.txt */,
 				BF68A1A720630809005FA649 /* Info.plist */,
 			);
 			path = "Word Scramble";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF68A1A620630809005FA649 /* LaunchScreen.storyboard in Resources */,
+				BF68A1AE20636D78005FA649 /* start.txt in Resources */,
 				BF68A1A320630809005FA649 /* Assets.xcassets in Resources */,
 				BF68A1A120630809005FA649 /* Main.storyboard in Resources */,
 			);
